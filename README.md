@@ -53,7 +53,7 @@ Database
 2. Clone repository (It is recommended to do a FORK)
 3. Configure Apache Tomcat to deploy the application.
 
-> [!TIP]
+> [!NOTE]
 > Change port in Apache Tomcat
 
 ```dtd
